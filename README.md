@@ -1,7 +1,3 @@
-Here’s your content converted into a clean, structured format with paraphrasing removed:
-
----
-
 ##  **Internship Task – Data Analyst Role**
 
 ###  **Task 4: SQL Queries**
